@@ -4,7 +4,12 @@
     font-weight:600;
     margin-top: 2em;
 }
-
+.head1{
+    height: 60px;
+}
+.main{
+    height: 20%;
+}
 #paragraph{
     font-size: 50px;
     color:white;
